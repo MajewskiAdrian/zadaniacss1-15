@@ -1,0 +1,49 @@
+
+	
+	
+	#pogrubienie_majewski
+	{
+	color: RGB(131,91,205);
+	font-size: 33px;
+	font-weight: bold;
+	}
+
+	
+	#pochylona_majewski
+	{
+	color: RGB(231,191,106);
+	font-size: 38pt;
+	font-style: italic;
+	}
+	
+	#index_gorny_majewski
+	{
+	color: RGB(151,141,26);
+	font-size: 4.8 cm;
+	vertical-align: sup;
+	}
+	
+	#index_dolny_majewski
+	{
+	color: RGB(19%,94%,88%);
+	font-size: 5.6 cm;
+	vertical-align: sub 
+	}
+	
+	#mono_majewski
+	{
+	color: RGB(23,224,105);
+	font-size: 43px;
+	}
+	
+	#powiększenie_majewski
+	{
+	color: RGB(81,61,155);
+	
+	}
+	
+	#pomniejszenie_majewski
+	{
+	color: RGB(71%,63%,21%);
+	
+	}
